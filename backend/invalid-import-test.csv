@@ -1,0 +1,2 @@
+countryCode,customerID,PaperlessDate,invoiceNumber,InvoiceDate,DueDate,InvoiceAmount,Disputed,SettledDate,PaperlessBill,DaysToSettle,DaysLate
+999,TEST-CUSTOMER-002,,9999999998,invalid-date,10/31/2026,-50,Maybe,,Electronic,,
